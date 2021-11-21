@@ -5,7 +5,7 @@ Informações minhas:
 - Tenho 15 aninhos, yay 🎉
 - Cabou ideia do que por aqui 👍
 ## 😨 Quais desastres eu programo atualmente
-Pra começar, a principal linguagem de programação que eu uso é `javascript`, mas eu também sei programar em python.
+Pra começar, a principal linguagem de programação que eu uso é `javascript`, mas eu também sei programar em `python`.
 
 ## Atualmente, meus projetos são:
 
