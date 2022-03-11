@@ -7,6 +7,10 @@ Informações minhas:
 ## 😨 Quais desastres eu programo atualmente
 Pra começar, a principal linguagem de programação que eu uso é `javascript`, mas eu também sei programar em `python`.
 
+## Status no github
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Victoreisdavid&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victoreisdavid&layout=compact&show_icons=true&theme=dracula)
+
 ## Atualmente, meus projetos são:
 
 ### Searcher 🔎 (bot do discord)
