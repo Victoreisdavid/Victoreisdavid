@@ -13,6 +13,7 @@ Atualmente estudando para conseguir emprego com programação depois dos 18 anos
 ### Frameworks frontend
 - ReactJS
 - NextJS
+- AstroJS
 
 ### Frameworks backend
 - FastAPI
