@@ -1,5 +1,5 @@
 # 🙋‍♂️ Victor Reis David
-Olá! Me chamo Victor, tenho 16 anos de idade e sou um programador jovem
+Olá! Me chamo Victor, tenho 16 anos de idade e sou um programador jovem.
 
 ## Linguagens que eu programo
 - Javascript
