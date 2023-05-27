@@ -30,7 +30,7 @@ Atualmente estudando para conseguir emprego com programação depois dos 18 anos
 - MongoDB
 - Redis
 
-### Softwares
+### Softwares diversos
 - ElasticSearch
 <a href="https://github-readme-stats.vercel.app/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victoreisdavid&show_icons=true&theme=radical" alt="Meus status no github" />
