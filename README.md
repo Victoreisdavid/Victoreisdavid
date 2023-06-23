@@ -1,37 +1,46 @@
 # 🙋‍♂️ Victor Reis David
-Olá! Me chamo Victor, tenho 16 anos de idade e sou um programador jovem.
 
-## Linguagens que eu programo
+👋 Olá! Me chamo Victor e sou um jovem programador que está perto da vida adulta (sou um estagiário de adulto ok).
+
+- Desenvolvedor fullstack ❤
+- Programador com discalculia e afantasia
+- *Programador que não toma café*
+- Altamente curioso
+- Autodidata
+- Fazendo o que ama desde 2020 ❤
+
+# Hard Skills
+Como dev fullstack, possuo experiência em frameworks tanto para backend quanto para frontend, sendo elas:
+
+## Linguagens de programação
 - Javascript
+- Typescript
 - Python
-- Lua
 
-Atualmente estudando para conseguir emprego com programação depois dos 18 anos (ou quem sabe antes) 🥰
+## Frontend
+- React.js
+- Next.js
+- VueJS (aprendendo)
+- Astro.js
+- Sass
 
-## Hard skills
-
-### Frameworks frontend
-- ReactJS
-- NextJS
-- AstroJS
-
-### Frameworks backend
+## Backend
+- Fastify.js
+- Express.js
 - FastAPI
-- Express
-- Fastify
+- Elasticsearch
+- RabbitMQ
 
-### ORMs
-- Sequelize
-- Mongoose
-- Prisma
-
-### Banco de dados
+## Bancos de dados
 - PostgreSQL
 - MongoDB
 - Redis
 
-### Softwares diversos
-- ElasticSearch
+## ORMs
+- Prisma
+- SQLAlchemy
+
+# Status
 <a href="https://github-readme-stats.vercel.app/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victoreisdavid&show_icons=true&theme=radical" alt="Meus status no github" />
 </a>
