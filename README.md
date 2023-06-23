@@ -9,6 +9,8 @@
 - Autodidata
 - Fazendo o que ama desde 2020 ❤
 
+"Aquele que tem um porquê, supera qualquer como"
+
 # Hard Skills
 Como dev fullstack, possuo experiência em frameworks tanto para backend quanto para frontend, sendo elas:
 
