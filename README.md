@@ -22,7 +22,7 @@ Como dev fullstack, possuo experiência em frameworks tanto para backend quanto 
 ## Frontend
 - React.js
 - Next.js
-- VueJS (aprendendo)
+- Vue.js (aprendendo)
 - Astro.js
 - Sass
 
