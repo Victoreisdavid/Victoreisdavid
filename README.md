@@ -1,4 +1,4 @@
-# 🙋‍♂️ Victor Reis David
+# 👋 Victor Reis David
 
 👋 Olá! Me chamo Victor e sou um jovem programador que está perto da vida adulta (sou um estagiário de adulto ok).
 
