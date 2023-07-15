@@ -9,7 +9,7 @@
 - Autodidata
 - Fazendo o que ama desde 2020 ❤
 
-"Aquele que tem um porquê, supera qualquer como"
+"*Aquele que tem um porquê, supera qualquer como*"
 
 # Hard Skills
 Como dev fullstack, possuo experiência em frameworks tanto para backend quanto para frontend, sendo elas:
@@ -41,6 +41,11 @@ Como dev fullstack, possuo experiência em frameworks tanto para backend quanto 
 ## ORMs
 - Prisma
 - SQLAlchemy
+
+
+Fique à vontade para explorar meus projetos e contribuições! Se você tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre programação, sinta-se à vontade para entrar em contato. Vamos aprender juntos! 🚀
+
+"*O verdadeiro sucesso é encontrar o equilíbrio entre fazer o que ama e amar o que faz.*"
 
 # Status
 <a href="https://github-readme-stats.vercel.app/">
