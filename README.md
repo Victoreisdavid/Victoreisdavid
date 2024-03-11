@@ -9,43 +9,9 @@
 - Autodidata
 - Fazendo o que ama desde 2020 ❤
 
-"*Aquele que tem um porquê, supera qualquer como*"
-
-# Hard Skills
-Como dev fullstack, possuo experiência em frameworks tanto para backend quanto para frontend, sendo elas:
-
-## Linguagens de programação
-- Javascript
-- Typescript
-- Python
-
-## Frontend
-- React.js
-- Next.js
-- Vue.js (aprendendo)
-- Astro.js
-- Sass
-
-## Backend
-- Fastify.js
-- Express.js
-- FastAPI
-- Elasticsearch
-- RabbitMQ
-
-## Bancos de dados
-- PostgreSQL
-- MongoDB
-- Redis
-
-## ORMs
-- Prisma
-- SQLAlchemy
-
-
 Fique à vontade para explorar meus projetos e contribuições! Se você tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre programação, sinta-se à vontade para entrar em contato. Vamos aprender juntos! 🚀
 
-"*O verdadeiro sucesso é encontrar o equilíbrio entre fazer o que ama e amar o que faz.*"
+"*Aquele que tem um porquê, supera qualquer como.*"
 
 # Status
 <a href="https://github-readme-stats.vercel.app/">
