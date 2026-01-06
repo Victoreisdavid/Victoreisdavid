@@ -1,21 +1,12 @@
-# 👋 Victor Reis David
+Olá 👋!
 
-- Desenvolvedor fullstack ❤
-- Programador com discalculia e afantasia
-- *Programador que não toma café*
-- Altamente curioso
-- Autodidata
-- Fazendo o que ama desde 2020 ❤
+Meu nome é Victor, tenho 19 anos e sou desenvolvedor fullstack desde 2020, atuo como freelancer desde 2022 🚀.
+Participo atualmente de projetos como a *GamingFuel*, desenvolvedor na *GoDiscord* e [Noyevel](https://noyevel.com/).
 
-Fique à vontade para explorar meus projetos e contribuições! Se você tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre programação, sinta-se à vontade para entrar em contato. Vamos aprender juntos! 🚀
+Atualmente, estou parando de atuar como freelancer para dar início a minha carreira formal.
 
-"*Aquele que tem um porquê, supera qualquer como.*"
+Sou estagiário como desenvolvedor mobile na *BRQ Digital Solutions*, e também estou atuando no desenvolvimento de dois projetos próprios: *Avoar* e *BezierTeams*. Ambos previstos para ter as primeiras versões usáveis em 2026.
 
-# Status
-<a href="https://github-readme-stats.vercel.app/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victoreisdavid&show_icons=true&theme=radical" alt="Meus status no github" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoreisdavid&show_icons=true&theme=radical" alt="Principais linguagens que eu uso" />
-</a>
+## Educação
+Formado em Análise e Desenvolvimento de sistemas através do programa de ensino médio técnico do Paraná.
+Bacharelado em Engenharia de Software em andamento na *Universidade Positivo*.
